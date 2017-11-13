@@ -1,4 +1,3 @@
-<script type="text/javascript"> 
 	var Typer={
 	text: null,
 	accessCountimer:null,
@@ -115,4 +114,3 @@ function t() {
 		clearInterval(timer);
 	}
 }
-</script> 
